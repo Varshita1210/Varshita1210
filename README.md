@@ -27,14 +27,7 @@ AI Engineer • Machine Learning Enthusiast • Full Stack Developer
 
 ---
 
-## 💻 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,typescript,react,vite,tailwind,flask,django,firebase,tensorflow,sklearn,mysql,sqlite,git,github,vscode" />
-
-</p>
----
 
 ### 🚀 About Me
 
@@ -43,3 +36,13 @@ AI Engineer • Machine Learning Enthusiast • Full Stack Developer
 - 💻 Building **AI-powered web applications using React, Django, Flask & Firebase**
 - 🏆 Active participant in hackathons and AI innovation challenges
 - 🎯 Goal: Become an **AI Engineer** at a top product company
+
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,typescript,react,vite,tailwind,flask,django,firebase,tensorflow,sklearn,mysql,sqlite,git,github,vscode" />
+
+</p>
+---
