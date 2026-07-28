@@ -24,6 +24,16 @@ AI Engineer • Machine Learning Enthusiast • Full Stack Developer
 </a>
 </p>
 
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,typescript,react,vite,tailwind,flask,django,firebase,tensorflow,sklearn,mysql,sqlite,git,github,vscode" />
+
+</p>
 ---
 
 ### 🚀 About Me
