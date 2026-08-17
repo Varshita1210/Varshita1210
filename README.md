@@ -49,23 +49,8 @@ AI Engineer • Machine Learning Enthusiast • Full Stack Developer
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Varshita1210&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshita1210&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Varshita1210&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Varshita1210&theme=tokyonight&hide_border=true&border_radius=10" alt="Varshita's GitHub Streak" />
 </p>
-
