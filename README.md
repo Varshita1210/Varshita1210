@@ -10,16 +10,6 @@ AI Engineer • Machine Learning Enthusiast • Full Stack Developer
 💡 Passionate about building AI-powered applications and scalable web solutions.
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/varshita-pallapothu-659256335">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Varshita1210">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
 ---
 <p align="center">
 <a href="https://www.linkedin.com/in/varshita-pallapothu-659256335">
