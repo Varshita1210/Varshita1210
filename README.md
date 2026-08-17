@@ -1,17 +1,26 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:4F46E5,100:06B6D4&text=VARSHITA%20PALLAPOTHU&fontSize=42&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&stroke=06B6D4&strokeWidth=2"
-    width="100%"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=2500&pause=800&color=4F46E5&center=true&vCenter=true&width=750&height=50&lines=AI+Engineer+%7C+Machine+Learning+%7C+GenAI;Building+AI-Powered+Applications;Python+%7C+Java+%7C+React+%7C+Django;Turning+Ideas+Into+Real-World+Products+%F0%9F%9A%80"
-    alt="Typing animation"
-  />
-</p>
+# 👋 Hi, I'm Varshita Pallapothu
 
+### 🤖 AI Engineer • Machine Learning • GenAI • Full Stack
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║  $ python build_future.py                            ║
+║                                                      ║
+║  > Initializing AI Engineer...        [██████████]   ║
+║  > Machine Learning modules...        [██████████]   ║
+║  > GenAI systems...                   [██████████]   ║
+║  > Full Stack applications...         [██████████]   ║
+║                                                      ║
+║  STATUS: READY 🚀                                    ║
+╚══════════════════════════════════════════════════════╝
 <p align="center">
 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning) <br>
 🏫 Mahatma Gandhi Institute of Technology (MGIT), Hyderabad <br>
