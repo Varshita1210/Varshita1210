@@ -49,8 +49,4 @@ AI Engineer • Machine Learning Enthusiast • Full Stack Developer
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Varshita1210&theme=tokyonight&hide_border=true&border_radius=10" alt="Varshita's GitHub Streak" />
-</p>
