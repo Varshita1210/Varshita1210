@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./ChatGPT%20Image%20Aug%2018,%202026,%2010_11_21%20PM.png"
+       alt="Varshita AI Engineer Banner"
+       width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Varshita Pallapothu</h1>
 
 <h3 align="center">
