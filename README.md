@@ -25,6 +25,10 @@ AI Engineer • Machine Learning Enthusiast • Full Stack Developer
 <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
+<a href="./Varshita_Pallapothu_Resume_AI_FullStack_Intern%20(1).pdf">
+<img src="https://img.shields.io/badge/Resume-28A745?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
 <a href="mailto:varshita101206@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
