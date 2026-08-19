@@ -3,19 +3,7 @@
        alt="Varshita AI Engineer Banner"
        width="100%">
 </p>
-<h1 align="center">Hi 👋, I'm Varshita Pallapothu</h1>
 
-<h3 align="center">
-AI Engineer • Machine Learning Enthusiast • Full Stack Developer
-</h3>
-
-<p align="center">
-🎓 B.Tech CSE (Artificial Intelligence & Machine Learning) <br>
-🏫 Mahatma Gandhi Institute of Technology (MGIT), Hyderabad <br>
-💡 Passionate about building AI-powered applications and scalable web solutions.
-</p>
-
----
 <p align="center">
 <a href="https://www.linkedin.com/in/varshita-pallapothu-659256335">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -38,6 +26,20 @@ AI Engineer • Machine Learning Enthusiast • Full Stack Developer
 </a>
 </p>
 
+
+---
+
+<h1 align="center">Hi 👋, I'm Varshita Pallapothu</h1>
+
+<h3 align="center">
+AI Engineer • Machine Learning Enthusiast • Full Stack Developer
+</h3>
+
+<p align="center">
+🎓 B.Tech CSE (Artificial Intelligence & Machine Learning) <br>
+🏫 Mahatma Gandhi Institute of Technology (MGIT), Hyderabad <br>
+💡 Passionate about building AI-powered applications and scalable web solutions.
+</p>
 
 ---
 
