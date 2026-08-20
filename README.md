@@ -62,13 +62,14 @@ AI Engineer • Machine Learning Enthusiast • Full Stack Developer
 
 </p>
 ---
-<h2 align="center">📊 My GitHub in 3D</h2>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg"
-       alt="Varshita's 3D GitHub Contributions"
-       width="100%">
-</p>
 ---
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Varshita1210&theme=dark&hide_border=true&border_radius=10"
+    alt="Varshita's GitHub Streak"
+  />
+</p>
 
