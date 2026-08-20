@@ -62,7 +62,13 @@ AI Engineer • Machine Learning Enthusiast • Full Stack Developer
 
 </p>
 ---
+<h2 align="center">📊 My GitHub in 3D</h2>
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg"
+       alt="Varshita's 3D GitHub Contributions"
+       width="100%">
+</p>
 ---
 
 
