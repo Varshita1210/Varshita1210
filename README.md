@@ -98,7 +98,7 @@ AI Engineer • Machine Learning Enthusiast • Full Stack Developer
 
 <div align="center">
 
-**🔗 [View Project](YOUR_SMART_EXPIRY_PROJECT_LINK)**
+**🔗 [View Project](https://github.com/HackIndiaXYZ/hackindia-spark-11-hyderabad-telangana-south-central-region-dual-impact)**
 
 </div>
 
